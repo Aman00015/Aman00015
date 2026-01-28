@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hey, I'm Aman Mansuri!<br><br>🎓 B.E. in Computer Engineering  <br>💼 SDE Intern @ SpaceProbe.in  <br>🔐 Security Researcher | 🤖 AI/ML Developer | 🛠️ Full-Stack Engineer 
+
+## 👋 Hey, I'm Aman Mansuri!<br><br>🎓 B.E. in Computer Engineering  <br>💼 SDE Intern @ SpaceProbe.in  <br>🔐 Security Researcher | 🤖 AI/ML Developer | 🛠️ Full-Stack Engineer 
 
 
 ## 🌐 Socials:
