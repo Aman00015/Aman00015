@@ -82,7 +82,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman00015&theme=high-contrast)](https://github.com/Aman00015/github-readme-activity-graph)
 
 
-### ✍️ Random Dev Quote
+### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
