@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Aman Mansuri!
 
 🎓 B.E. in Computer Engineering  
-💼 SDE Intern @ SpaceProbe.in  
+💼 Full Stack Intern @ SpaceProbe.in  
 🔐 Security Researcher | 🤖 AI/ML Enthusiast | 🛠️ Full-Stack Dev
 
 ### 🌐 Socials:
